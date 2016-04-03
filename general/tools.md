@@ -16,9 +16,10 @@ We use [Trello](http://trello.com/) for managing tasks and assignements. Our mai
 
 Make sure to always assign yourself to thing you've comitted yourself to do, and move the card to "in progress" or "done" to let others know that things are happening. 
 
-There are also two private Trello boards:
-- [Django Girls Foundation](https://trello.com/b/BEIUCkCZ/django-girls-foundation) -- for all tasks and documents regarding the foundation. We're not sure if we can make this public, it's also just boring bureaucracy. Probably better to keep it private until we figure this out. 
-- [Django Girls [PRIVATE]](https://trello.com/b/MhTXkuii/django-girls-private) -- if you wonder if adding task to a publicly could hurt or put at risk Django Girls, Django Girls Foundation, or any person involved in Django Girls, it's better to discuss it with the team or put it on a private board. 
+There are also three private Trello boards:
+- [Django Girls Awesomeness Ambassador and Support Team board](https://trello.com/b/MhTXkuii/django-girls-support-team) -- for all the task where the Ambassador needs help from the Support Team. You can also tasks that don't need to be public: boring bureaucracy or a task that could hurt or put at risk Django Girls, Django Girls Foundation, or any person involved in Django Girls.
+- [The Awesome To-Do list ;)](https://trello.com/b/3QtRXvcP/the-awesome-to-do-list) -- the aim of this board is to help the Ambassador stay organized. It's a list of all the tasks the Ambassador is working on (columns "Next things to do!" and "In progress"). It's also a brain dump organized by topic (documentation, website, community, etc) to keep tracks of what needs to be done.
+- [Events calendar](https://trello.com/b/nWNEA8bf/events-calendar) -- connected to `sync_events_dashboard.sh` on PythonAnywhere. Use this board to check if organizers are on schedule. Use the red label if an event is not happening and yellow is something wrong is happening (for example: organizers really late and not responding).
 
 ## Slack
 
